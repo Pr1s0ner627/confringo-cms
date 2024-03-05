@@ -1,0 +1,93 @@
+{
+  "stucomplain": [
+    {
+      "id": "1",
+      "complain": "demo"
+    },
+    {
+      "stuid": 1,
+      "complain": "demo text",
+      "ans": "solved",
+      "id": "2"
+    },
+    {
+      "stuid": 3,
+      "complain": "having problem while solving dsa questions \n",
+      "ans": "its okay do leetcode practice and you will be good as me and others\n",
+      "id": "3"
+    },
+    {
+      "stuid": 3,
+      "complain": "alright",
+      "ans": "solved\n",
+      "id": "4"
+    },
+    {
+      "stuid": 5,
+      "complain": "test complaint",
+      "ans": "test solved",
+      "id": "5"
+    },
+    {
+      "stuid": 6,
+      "complain": "hey there",
+      "ans": "fuck off\n",
+      "id": "6"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": "demo"
+    },
+    {
+      "name": "demo1",
+      "email": "demo@gmail.com1",
+      "password": "demo1",
+      "id": "2"
+    },
+    {
+      "name": "mayank",
+      "email": "mayank@gmail.com",
+      "password": "mayank",
+      "id": "3"
+    },
+    {
+      "name": "demo1",
+      "email": "demo@gmail.com",
+      "password": "demo",
+      "id": "4"
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": "5"
+    },
+    {
+      "name": "demo1",
+      "email": "mk9621735@gmail.com",
+      "password": "demo1",
+      "id": "6"
+    },
+    {
+      "id": "600d",
+      "name": "weeb"
+    },
+    {
+      "id": "f0cd",
+      "name": "weeb",
+      "email": "mk9621735@gmail.com",
+      "password": "weeb"
+    }
+  ],
+  "adminuser": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    }
+  ]
+}
