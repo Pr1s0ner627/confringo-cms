@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f32079f.css",
-    "main.js": "/static/js/main.ed9be852.js",
-    "static/media/logo3.png": "/static/media/logo3.b00ded53a83a443e5a50.png",
-    "index.html": "/index.html",
-    "main.6f32079f.css.map": "/static/css/main.6f32079f.css.map",
-    "main.ed9be852.js.map": "/static/js/main.ed9be852.js.map"
+    "main.css": "/confringo-cms/static/css/main.6f32079f.css",
+    "main.js": "/confringo-cms/static/js/main.8cabbc16.js",
+    "static/media/logo3.png": "/confringo-cms/static/media/logo3.b00ded53a83a443e5a50.png",
+    "index.html": "/confringo-cms/index.html",
+    "main.6f32079f.css.map": "/confringo-cms/static/css/main.6f32079f.css.map",
+    "main.8cabbc16.js.map": "/confringo-cms/static/js/main.8cabbc16.js.map"
   },
   "entrypoints": [
     "static/css/main.6f32079f.css",
-    "static/js/main.ed9be852.js"
+    "static/js/main.8cabbc16.js"
   ]
 }
