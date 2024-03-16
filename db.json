@@ -1,38 +1,34 @@
 {
   "stucomplain": [
     {
-      "id": "1",
-      "complain": "demo"
+      "stuid": 1,
+      "complain": "Cannot Login to the Portal",
+      "ans": "Please, call on +xx-xxx-xxx-xxxx for assistance.",
+      "id": "1"
     },
     {
-      "stuid": 1,
-      "complain": "demo text",
-      "ans": "solved",
+      "stuid": 2,
+      "complain": "having problem while solving dsa questions \n",
+      "ans": "its okay do leetcode practice and you will be good as me and others\n",
       "id": "2"
     },
     {
       "stuid": 3,
-      "complain": "having problem while solving dsa questions \n",
-      "ans": "its okay do leetcode practice and you will be good as me and others\n",
+      "complain": "Need help with the Assignment Submission",
+      "ans": "Drop mail to assignment@confringo.com with error message and attach your deliverables",
       "id": "3"
     },
     {
-      "stuid": 3,
-      "complain": "alright",
-      "ans": "solved\n",
+      "stuid": 4,
+      "complain": "test complaint",
+      "ans": "test case solved",
       "id": "4"
     },
     {
       "stuid": 5,
-      "complain": "test complaint",
-      "ans": "test solved",
-      "id": "5"
-    },
-    {
-      "stuid": 6,
       "complain": "hey there",
       "ans": "fuck off\n",
-      "id": "6"
+      "id": "5"
     }
   ],
   "students": [
@@ -44,7 +40,7 @@
     },
     {
       "name": "demo1",
-      "email": "demo@gmail.com1",
+      "email": "demo1@gmail.com",
       "password": "demo1",
       "id": "2"
     },
@@ -55,26 +51,16 @@
       "id": "3"
     },
     {
-      "name": "demo1",
-      "email": "demo@gmail.com",
-      "password": "demo",
-      "id": "4"
-    },
-    {
       "name": "test",
       "email": "test@gmail.com",
       "password": "test",
-      "id": "5"
+      "id": "4"
     },
     {
       "name": "demo1",
       "email": "mk9621735@gmail.com",
       "password": "demo1",
-      "id": "6"
-    },
-    {
-      "id": "600d",
-      "name": "weeb"
+      "id": "5"
     },
     {
       "id": "f0cd",
@@ -88,6 +74,11 @@
       "id": "1",
       "email": "admin@gmail.com",
       "password": "admin"
+    },
+    {
+      "id": "2",
+      "email": "admin001@gmail.com",
+      "password": "admin001"
     }
   ]
 }
