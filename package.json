@@ -1,6 +1,7 @@
 {
   "name": "confringo-cms",
   "version": "0.1.0",
+  "homepage": "https://pr1s0ner627.github.io/confringo-cms/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
